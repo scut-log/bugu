@@ -1,0 +1,51 @@
+{
+  "id": "1760476",
+  "name": " bugu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15193456",
+      "name": "record",
+      "font_class": "record",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15193452",
+      "name": "image",
+      "font_class": "image",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "14998507",
+      "name": "emotion",
+      "font_class": "biaoqing",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1346584",
+      "name": "会话",
+      "font_class": "session_B",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "9696451",
+      "name": "添加好友",
+      "font_class": "addFriend_B",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "13649479",
+      "name": "交友",
+      "font_class": "jiaoyou_B",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    }
+  ]
+}
